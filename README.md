@@ -1,5 +1,5 @@
 # Human-Resources-Department-Solution
-# Human Resources Department Solution
+
 
 ## Overview
 This project is designed to address critical challenges faced by Human Resources (HR) departments in hiring and retaining employees efficiently. By leveraging data science techniques, this project aims to predict which employees are more likely to quit. This predictive model assists HR in making informed decisions, ultimately saving time and reducing costs associated with employee turnover.
