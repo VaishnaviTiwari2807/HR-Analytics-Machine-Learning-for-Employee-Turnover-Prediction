@@ -1,5 +1,11 @@
-# Human-Resources-Department-Solution
-
+# HR Analytics: Machine Learning for Employee Turnover Prediction
+## Introduction
+Hiring and retaining employees are extremely complex tasks that require capital, time, and skills. Consider the following points:
+- Small business owners spend 40% of their working hours on tasks that do not generate any income, such as hiring.
+- Companies spend 15%-20% of the employee's salary to recruit a new candidate.
+- An average company loses anywhere between 1% and 2.5% of their total revenue on the time it takes to bring a new hire up to speed.
+- Hiring a new employee costs an average of $7,645 (for companies with 0-500 employees).
+- It takes 52 days on average to fill a position.
 
 ## Overview
 This project is designed to address critical challenges faced by Human Resources (HR) departments in hiring and retaining employees efficiently. By leveraging data science techniques, this project aims to predict which employees are more likely to quit. This predictive model assists HR in making informed decisions, ultimately saving time and reducing costs associated with employee turnover.
